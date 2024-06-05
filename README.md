@@ -1,8 +1,8 @@
-Project SpaceDefenders
+**Project SpaceDefenders**
 
-This is a personal C# game project, the purpose of this project was to try to implement what I learned from my university project RobotDodge game and apply that knowledge/skills to this personal project.
+This is a personal C# game project, the purpose of this project was to try to implement what I learned from my university project RobotDodge game and apply that knowledge/skills to this personal project. Basically an application of object-oriented programming principles applied to this project.
 
-Instructions
+**Instructions**
 
 Download 'SplashKit' and 'MSYS2 MINGW64' online.
 
