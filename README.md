@@ -16,6 +16,6 @@ Now to use SplashKit, type 'skm dotnet new console', followed by 'skm dotnet res
 
 Type 'skm resources' to create a resources folder for images, sounds, videos etc.
 
-After that's all done and you have downloaded the everything here, make sure to type 'skm dotnet run'.
+After that's all done and you have downloaded everything here, make sure to type 'skm dotnet run'.
 
 ![Screenshot](https://github.com/NguyenMav/Project_CSharp_SpaceDefendersGame/assets/149219810/d7028bff-7dc1-4e49-b6f2-f1ce7a604ff4)
