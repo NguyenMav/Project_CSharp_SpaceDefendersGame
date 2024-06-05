@@ -1,0 +1,14 @@
+C:\Users\zungn\Documents\Code\SpaceDefender\bin\Debug\net8.0\SpaceDefender.exe
+C:\Users\zungn\Documents\Code\SpaceDefender\bin\Debug\net8.0\SpaceDefender.deps.json
+C:\Users\zungn\Documents\Code\SpaceDefender\bin\Debug\net8.0\SpaceDefender.runtimeconfig.json
+C:\Users\zungn\Documents\Code\SpaceDefender\bin\Debug\net8.0\SpaceDefender.dll
+C:\Users\zungn\Documents\Code\SpaceDefender\bin\Debug\net8.0\SpaceDefender.pdb
+C:\Users\zungn\Documents\Code\SpaceDefender\obj\Debug\net8.0\SpaceDefender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zungn\Documents\Code\SpaceDefender\obj\Debug\net8.0\SpaceDefender.AssemblyInfoInputs.cache
+C:\Users\zungn\Documents\Code\SpaceDefender\obj\Debug\net8.0\SpaceDefender.AssemblyInfo.cs
+C:\Users\zungn\Documents\Code\SpaceDefender\obj\Debug\net8.0\SpaceDefender.csproj.CoreCompileInputs.cache
+C:\Users\zungn\Documents\Code\SpaceDefender\obj\Debug\net8.0\SpaceDefender.dll
+C:\Users\zungn\Documents\Code\SpaceDefender\obj\Debug\net8.0\refint\SpaceDefender.dll
+C:\Users\zungn\Documents\Code\SpaceDefender\obj\Debug\net8.0\SpaceDefender.pdb
+C:\Users\zungn\Documents\Code\SpaceDefender\obj\Debug\net8.0\SpaceDefender.genruntimeconfig.cache
+C:\Users\zungn\Documents\Code\SpaceDefender\obj\Debug\net8.0\ref\SpaceDefender.dll
